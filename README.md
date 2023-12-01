@@ -1,4 +1,4 @@
-# Advent Of Code 2023 
+# Advent of Code 2023 
 1. ✅✅
 2. 
 3. 
@@ -25,4 +25,4 @@
 24. 
 25. 
 
-[AOC events](https://adventofcode.com/2023/events)
+[AoC events](https://adventofcode.com/2023/events)
