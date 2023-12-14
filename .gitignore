@@ -425,3 +425,7 @@ bin/
 .DS_Store
 
 .idea/
+
+input/
+output/
+*.txt
